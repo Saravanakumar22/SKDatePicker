@@ -1,6 +1,6 @@
 # SKDatePicker
 
-Present Date picker this action sheet
+Present Date picker like action sheet
 ```swift
 let datePicker = DatePickerSheet(dateMode: .date)
 datePicker.show()
